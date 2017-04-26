@@ -15,7 +15,7 @@ Usage:
 ```typescript
 
 import {Component} from '@angular/core';
-import {CachingService, CacheOptionsInterface, CacheStoragesEnum} from 'ng2-cacher/ng2-cacher';
+import {CachingService, CacheOptionsInterface, CacheStoragesEnum} from 'ng2-caching/ng2-caching';
 
 declare var BUILD_VERSION: string;
 
